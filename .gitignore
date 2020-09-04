@@ -39,4 +39,4 @@ ormconfig.json
 
 # Other
 package-lock.json
-README.md
+/client/*/README.md

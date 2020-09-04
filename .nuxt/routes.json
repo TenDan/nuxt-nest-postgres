@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "T:\\\\Projekty\\\\aplikacje webowe\\\\fullstack-tests\\\\nest\\\\client\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_30bc9d08"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "T:\\\\Projekty\\\\aplikacje webowe\\\\fullstack-tests\\\\nest\\\\client\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_1083b440"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "T:\\\\Projekty\\\\aplikacje webowe\\\\fullstack-tests\\\\nest\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1dfa0e65"
+  }
+]

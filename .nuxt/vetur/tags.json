@@ -1,0 +1,26 @@
+{
+  "Carousel": {
+    "description": "Auto imported from components/Carousel.vue"
+  },
+  "LazyCarousel": {
+    "description": "Auto imported from components/Carousel.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "LazyLoading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  }
+}
